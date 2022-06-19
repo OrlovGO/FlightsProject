@@ -1,0 +1,15 @@
+C:\C++ Projects\FlightsProject\FlightsProject\bin\Debug\net6.0\FlightsProject.exe
+C:\C++ Projects\FlightsProject\FlightsProject\bin\Debug\net6.0\FlightsProject.deps.json
+C:\C++ Projects\FlightsProject\FlightsProject\bin\Debug\net6.0\FlightsProject.runtimeconfig.json
+C:\C++ Projects\FlightsProject\FlightsProject\bin\Debug\net6.0\FlightsProject.dll
+C:\C++ Projects\FlightsProject\FlightsProject\bin\Debug\net6.0\FlightsProject.pdb
+C:\C++ Projects\FlightsProject\FlightsProject\obj\Debug\net6.0\FlightsProject.csproj.AssemblyReference.cache
+C:\C++ Projects\FlightsProject\FlightsProject\obj\Debug\net6.0\FlightsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\C++ Projects\FlightsProject\FlightsProject\obj\Debug\net6.0\FlightsProject.AssemblyInfoInputs.cache
+C:\C++ Projects\FlightsProject\FlightsProject\obj\Debug\net6.0\FlightsProject.AssemblyInfo.cs
+C:\C++ Projects\FlightsProject\FlightsProject\obj\Debug\net6.0\FlightsProject.csproj.CoreCompileInputs.cache
+C:\C++ Projects\FlightsProject\FlightsProject\obj\Debug\net6.0\FlightsProject.dll
+C:\C++ Projects\FlightsProject\FlightsProject\obj\Debug\net6.0\refint\FlightsProject.dll
+C:\C++ Projects\FlightsProject\FlightsProject\obj\Debug\net6.0\FlightsProject.pdb
+C:\C++ Projects\FlightsProject\FlightsProject\obj\Debug\net6.0\FlightsProject.genruntimeconfig.cache
+C:\C++ Projects\FlightsProject\FlightsProject\obj\Debug\net6.0\ref\FlightsProject.dll
